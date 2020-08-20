@@ -1,0 +1,175 @@
+pays,code_pays,annee,nb_personnes
+Afghanistan,2,2013,7900000.0
+Afrique du Sud,202,2013,2600000.0
+Albanie,3,2013,200000.0
+Algérie,4,2013,1700000.0
+Allemagne,79,2013,
+Angola,7,2013,8100000.0
+Antigua-et-Barbuda,8,2013,
+Arabie saoudite,194,2013,1600000.0
+Argentine,9,2013,1500000.0
+Arménie,1,2013,100000.0
+Australie,10,2013,
+Autriche,11,2013,
+Azerbaïdjan,52,2013,
+Bahamas,12,2013,
+Bangladesh,16,2013,26100000.0
+Barbade,14,2013,0.0
+Bélarus,57,2013,
+Belgique,255,2013,
+Belize,23,2013,0.0
+Bénin,53,2013,1000000.0
+Bermudes,17,2013,
+Bolivie (État plurinational de),19,2013,2200000.0
+Bosnie-Herzégovine,80,2013,
+Botswana,20,2013,500000.0
+Brésil,21,2013,
+Brunéi Darussalam,26,2013,0.0
+Bulgarie,27,2013,400000.0
+Burkina Faso,233,2013,3400000.0
+Cabo Verde,35,2013,0.0
+Cambodge,115,2013,2800000.0
+Cameroun,32,2013,1700000.0
+Canada,33,2013,
+Chili,40,2013,600000.0
+Chine - RAS de Hong-Kong,96,2013,
+Chine - RAS de Macao,128,2013,0.0
+"Chine, continentale",41,2013,136600000.0
+"Chine, Taiwan Province de",214,2013,1000000.0
+Chypre,50,2013,0.0
+Colombie,44,2013,4099999.9999999995
+Congo,46,2013,1800000.0
+Costa Rica,48,2013,300000.0
+Côte d'Ivoire,107,2013,4700000.0
+Croatie,98,2013,
+Cuba,49,2013,
+Danemark,54,2013,
+Djibouti,72,2013,200000.0
+Dominique,55,2013,0.0
+Égypte,59,2013,3900000.0
+El Salvador,60,2013,700000.0
+Émirats arabes unis,225,2013,400000.0
+Équateur,58,2013,1300000.0
+Espagne,203,2013,
+Estonie,63,2013,0.0
+Eswatini,209,2013,300000.0
+États-Unis d'Amérique,231,2013,
+Éthiopie,238,2013,25300000.0
+Fédération de Russie,185,2013,
+Fidji,66,2013,0.0
+Finlande,67,2013,
+France,68,2013,
+Gabon,74,2013,200000.0
+Gambie,75,2013,200000.0
+Géorgie,73,2013,300000.0
+Ghana,81,2013,1600000.0
+Grèce,84,2013,
+Grenade,86,2013,
+Guatemala,89,2013,2500000.0
+Guinée,90,2013,1800000.0
+Guinée-Bissau,175,2013,400000.0
+Guyana,91,2013,0.0
+Haïti,93,2013,5200000.0
+Honduras,95,2013,1300000.0
+Hongrie,97,2013,
+Îles Salomon,25,2013,0.0
+Inde,100,2013,216300000.0
+Indonésie,101,2013,22600000.0
+Iran (République islamique d'),102,2013,4200000.0
+Iraq,103,2013,9100000.0
+Irlande,104,2013,
+Islande,99,2013,
+Israël,105,2013,
+Italie,106,2013,
+Jamaïque,109,2013,300000.0
+Japon,110,2013,
+Jordanie,112,2013,900000.0
+Kazakhstan,108,2013,
+Kenya,114,2013,10000000.0
+Kirghizistan,113,2013,400000.0
+Kiribati,83,2013,0.0
+Koweït,118,2013,
+Lesotho,122,2013,300000.0
+Lettonie,119,2013,
+Liban,121,2013,500000.0
+Libéria,123,2013,1600000.0
+Lituanie,126,2013,
+Luxembourg,256,2013,
+Macédoine du Nord,154,2013,0.0
+Madagascar,129,2013,8199999.999999999
+Malaisie,131,2013,1000000.0
+Malawi,130,2013,3200000.0
+Maldives,132,2013,0.0
+Mali,133,2013,1000000.0
+Malte,134,2013,
+Maroc,143,2013,1400000.0
+Maurice,137,2013,0.0
+Mauritanie,136,2013,300000.0
+Mexique,138,2013,5300000.0
+Mongolie,141,2013,500000.0
+Monténégro,273,2013,
+Mozambique,144,2013,7000000.0
+Myanmar,28,2013,6600000.0
+Namibie,147,2013,700000.0
+Népal,149,2013,2500000.0
+Nicaragua,157,2013,1100000.0
+Niger,158,2013,1900000.0
+Nigéria,159,2013,13400000.0
+Norvège,162,2013,
+Nouvelle-Calédonie,153,2013,0.0
+Nouvelle-Zélande,156,2013,
+Oman,221,2013,200000.0
+Ouganda,226,2013,12600000.0
+Ouzbékistan,235,2013,2100000.0
+Pakistan,165,2013,38100000.0
+Panama,166,2013,400000.0
+Paraguay,169,2013,800000.0
+Pays-Bas,150,2013,
+Pérou,170,2013,2800000.0
+Philippines,171,2013,14000000.0
+Pologne,173,2013,
+Polynésie française,70,2013,0.0
+Portugal,174,2013,
+République centrafricaine,37,2013,2000000.0
+République de Corée,117,2013,
+République de Moldova,146,2013,
+République démocratique populaire lao,120,2013,1200000.0
+République dominicaine,56,2013,1300000.0
+République populaire démocratique de Corée,116,2013,10600000.0
+République-Unie de Tanzanie,215,2013,16399999.999999998
+Roumanie,183,2013,
+Royaume-Uni,229,2013,
+Rwanda,184,2013,3600000.0
+Sainte-Lucie,189,2013,
+Saint-Kitts-et-Nevis,188,2013,
+Saint-Vincent-et-les Grenadines,191,2013,0.0
+Samoa,244,2013,0.0
+Sao Tomé-et-Principe,193,2013,0.0
+Sénégal,195,2013,1900000.0
+Serbie,272,2013,500000.0
+Sierra Leone,197,2013,1600000.0
+Slovaquie,199,2013,200000.0
+Slovénie,198,2013,
+Soudan,276,2013,8300000.000000001
+Sri Lanka,38,2013,2300000.0
+Suède,210,2013,
+Suisse,211,2013,
+Suriname,207,2013,0.0
+Tadjikistan,208,2013,
+Tchad,39,2013,4900000.0
+Tchéquie (la),167,2013,
+Thaïlande,216,2013,5600000.0
+Timor-Leste,176,2013,300000.0
+Togo,217,2013,1300000.0
+Trinité-et-Tobago,220,2013,0.0
+Tunisie,222,2013,500000.0
+Turkménistan,213,2013,300000.0
+Turquie,223,2013,
+Ukraine,230,2013,
+Uruguay,234,2013,
+Vanuatu,155,2013,0.0
+Venezuela (République bolivarienne du),236,2013,1900000.0
+Viet Nam,237,2013,10400000.0
+Yémen,249,2013,7200000.0
+Zambie,251,2013,7000000.0
+Zimbabwe,181,2013,6600000.0
