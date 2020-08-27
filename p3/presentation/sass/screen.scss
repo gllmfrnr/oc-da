@@ -1,0 +1,21 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
+$base: 24px;
+
+div.bloc {
+  border: $base/4 solid black;
+  &:nth-of-type(1) { border-color: blue }
+  &:nth-of-type(2) { border-color: red }
+}
+
+section {
+  border: $base/8 solid black;
+}
+p.notes {
+  background: yellow;
+}
