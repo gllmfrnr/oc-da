@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projet 3 : Étude de santé</title>
+
+  <link rel="stylesheet" type='text/css' media='all' href="static/css/webslides.css">
+  <link rel="stylesheet" href="css/screen.css">
+
+  <meta name="mobile-web-app-capable" content="yes">
+
+</head>
+<body>
+
+  <main role="main">
+    <article id="webslides" class="vertical">
+
+      <section class="present">
+        <div class="wrap size-30 alignleft">
+
+          <h1>P3 : Étude de santé</h1>
+          <p>3 septembre 2020</p>
+        </div>
+      </section>
+
+      <section class="present">
+        <div class="wrap size-30 alignleft">
+          <h2>Mise en contexte</h2>
+          <h2>Exploration des données</h2>
+          <h2>Approfondissement</h2>
+          <h2>Requêtes SQL</h2>
+        </div>
+      </section>
+
+      <section class="contexte">
+        <div class="wrap size-40 alignleft">
+          <h2>Quelques chiffres-clés</h2>
+          <ul>
+            <li>
+              <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#D%C3%A9c%C3%A8s-dus-%C3%A0-la-faim" target="_blank">25.000 morts par jour</a>
+              dus à la faim
+            </li>
+            <li>11% de la population mondiale en sous-nutrition</li>
+          </li>
+          <li><a href="http://www.fao.org/hunger/en/" target="_blank">
+            Hausse prévue d’ici 2030
+          </a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="contexte">
+      <div class="wrap size-40 alignleft">
+        <h2>Quelques causes de la faim dans le monde :</h2>
+        <ul>
+          <li>Pauvreté</li>
+          <li>
+            <a href="http://www.fao.org/3/a-I7695f.pdf" target="_blank">
+              Guerres et conflits
+            </a>
+          </li>
+          <li>Changement et catastrophes climatiques</li>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Causes-de-la-sous-alimentation" target="_blank">
+              Mauvaise gestion des ressources
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="donnees">
+      <div class="wrap size-40 alignleft">
+        <h2>Présentation des données</h2>
+        <ul>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Cinq-datasets" target="_blank">
+              5 datasets
+            </a>
+            fournis par la FAO
+          </li>
+          <li>
+            Traitement des
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q1-:-Nombre-d'humains-sur-la-plan%C3%A8te" target="_blank">
+              duplicats
+            </a>
+          </li>
+          <li>
+            Traitement des
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q2-:-Redondances" target="_blank">
+              redondances
+            </a>
+          </li>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Hypoth%C3%A8ses-retenues" target="_blank">Hypothèses retenues</a>
+            pour les calculs
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="donnees">
+      <div class="wrap size-40 alignleft">
+        <h2>Opérations d'algèbre relationnelle</h2>
+        <ul>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#aliments-(vegetaux-+-animaux)" target="_blank">
+              Jointure
+            </a>
+          </li>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q3-:-Dispo.-alimentaire-(calories,-prot%C3%A9ines)" target="_blank">
+              Agrégation
+            </a>
+          </li>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q10-:-Pourcentage-de-la-sous-nutrition-mondiale" target="_blank">
+              Restriction
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="approfondissement">
+      <div class="wrap size-40 alignleft">
+        <h2>Assez de nourriture malgré les pertes</h2>
+        <ul>
+          <li>
+            1/3 de la nourriture
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Les-pertes-repr%C3%A9sentent-%C3%A0-elles-seules-9%-de-la-nourriture-destin%C3%A9e-aux-humains" target="_blank">perdue</a>
+            ou
+            <a href="http://www.fao.org/state-of-food-agriculture/fr/#:~:text=L'estimation%20g%C3%A9n%C3%A9rale%20fournie%20par,perdue%20ou%20gaspill%C3%A9e%20chaque%20ann%C3%A9e.&text=L'Indice%20du%20gaspillage%20alimentaire%2C%20calcul%C3%A9%20par%20le%20PNUE%2C,d%C3%A9tail%20et%20de%20la%20consommation" target="_blank">
+              gaspillée
+            </a>
+          </li>
+          <li>
+            Des
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q9-:-Potentiel-alimentaire-de-la-dispo.-mondiale" target="_blank">ressources suffisantes</a>
+            pour nourrir 145% de la population mondiale
+          </li>
+          <li>
+            Plus de pertes
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Volumes-des-pertes" target="_blank">dans les pays sous-alimentés</a>
+            que les autres
+          </li>
+          <!--<li>En continuant à gaspiller, on pourrait nourrir 100% de la population</li>-->
+        </ul>
+      </div>
+    </section>
+
+    <section class="approfondissement">
+      <div class="wrap size-40 alignleft">
+        <h2>Une production suffisante</h2>
+        <ul>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q7-:-Potentiel-alimentaire-des-v%C3%A9g%C3%A9taux" target="_blank">
+              Pertes et aliments végétaux pour animaux suffiraient à nourrir 143% de la population humaine
+            </a>
+          </li>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q11-:-C%C3%A9r%C3%A9ales" target="_blank">
+              Des céréales sur-exploitées pour la production de viande
+            </a>
+          </li>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Q14-:-Tha%C3%AFlande" target="_blank">
+              De mauvaises répartitions des ressources
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="approfondissement">
+      <div class="wrap size-40 alignleft">
+        <h2>Question : technologie</h2>
+
+      </div>
+    </section>
+
+    <section class="approfondissement">
+      <div class="wrap size-40 alignleft">
+        <h2>Prévisions pour 2050</h2>
+        <ul>
+          <li>
+            <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#%C3%89volutions-possibles-pour-2050" target="_blank"></a>
+            9,7 milliards d'humains en 2050
+          </a>
+        </li>
+        <li>Aucun besoin d'augmenter la production</li>
+        <li>Efforts à  porter sur le répartition et le gaspillage</li>
+      </ul>
+    </div>
+  </section>
+
+
+
+  <section class="sql">
+    <div class="wrap size-40 alignleft">
+      <h2>Quelques requêtes SQL</h2>
+      <ul>
+        <li>
+          <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Pays-aux-plus-hauts-ratios" target="_blank">
+            Disponibilités alimentaires par habitant
+          </a>
+        </li>
+        <li>
+          <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Volumes-des-pertes" target="_blank">
+            Pertes par pays
+          </a>
+        </li>
+        <li>
+          <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Proportion-de-la-sous-nutrition" target="_blank">
+            Les 10 pays les plus sous-alimentés
+          </a>
+        </li>
+        <li>
+          <a href="https://nbviewer.jupyter.org/github/gllmfrnr/OC/blob/master/p3/p3.ipynb#Produits-au-plus-haut-ratio-autres/dispo_int" target="_blank">
+            Les plus hauts ratios <i>Autres utilisations</i> / <i>Dispo. intérieure</i>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+  </section>
+
+
+
+  <section class="present">
+    <div class="wrap size-60 alignleft">
+      <h1>Conclusion</h1>
+      <h2>Une sous-nutrition en croissance</h2>
+      <h2>Des causes de la faim interconnectées</h2>
+      <h2>Des ressources suffisantes pour la population mondiale</h2>
+      <h1>Recommandations</h1>
+      <h2>Mieux répartir les ressources entre pays</h2>
+      <h2>Optimiser la gestion des ressources dans les pays sous-alimentés</h2>
+      <h2>Inciter à lutter contre le gaspillage</h2>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+</article>
+<!-- end article -->
+</main>
+<!-- end main -->
+
+<script src="static/js/webslides.js"></script>
+<script>
+window.ws = new WebSlides();
+</script>
+
+
+</body>
+</html>

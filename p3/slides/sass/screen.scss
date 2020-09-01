@@ -1,0 +1,150 @@
+/* Welcome to Compass.
+* In this file you should write your main styles. (or centralize your imports)
+* Import this file using the following HTML or equivalent:
+* <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import url("https://use.typekit.net/kny5ytb.css");
+$base: 24px;
+
+$dark: #263238;
+$light: #fafafa;
+$grey-dark: #607d8b;
+$grey-light: #cfd8dc;
+
+
+body {
+  font-family: futura-pt, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body, section {
+  background: $light;
+}
+
+section {
+  box-sizing: border-box;
+  border: $base solid $light;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.present {
+  //    border-color: $dark;
+  background:
+  linear-gradient(
+  -210deg,
+  #fff ,
+  #eceff1
+  );
+}
+
+
+
+
+.contexte {
+  background:
+  linear-gradient(
+  -210deg,
+  #ffebee ,
+  #ffcdd2
+  );
+  & a {
+    text-decoration-color: #ff8a80;
+  }
+}
+
+.donnees {
+  background:
+  linear-gradient(
+  -210deg,
+  #e0f2f1,
+  #b2dfdb
+  );
+    & a {
+    text-decoration-color: #1de9b6;
+  }
+}
+
+
+
+
+
+.approfondissement {
+  background:
+  linear-gradient(
+  -210deg,
+  #e8eaf6,
+  #c5cae9
+    );
+    & a {
+    text-decoration-color: #8c9eff;
+  }
+}
+
+
+.sql {
+  background:
+  linear-gradient(
+  -210deg,
+  #fff8e1,
+  #ffecb3
+    );
+  & a {
+    text-decoration-color: #ffe57f;
+  }
+
+}
+
+i { font-style: italic; }
+
+
+
+h1 {
+  font-size: $base*3;
+  margin-bottom: $base*2;
+  h2 + & {
+    margin-top: $base*2;
+  }
+}
+
+h2 {
+  font-size: $base*3;
+  margin-bottom: $base*2;
+  section.present & {
+    font-size: $base*1.5;
+    line-height: $base*1.5;
+    padding: $base*.5 $base;
+    //background: $dark;
+    border: 1px solid $dark;
+    border-radius: $base*.25;
+    margin-bottom: $base*.5;
+
+  }
+}
+
+p, ul {
+  font-size: $base*1.5;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: -#{$base/2};
+  & li {
+    line-height: $base*1.75;
+    margin-bottom: $base*.25;
+  }
+}
+
+li a {
+
+  color: $dark;
+  text-decoration: underline;
+  // text-decoration-style: dotted;
+  //text-decoration-color: $grey-light!important;
+  &:hover {
+    color: $grey-dark;
+  }
+}
