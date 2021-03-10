@@ -11,4 +11,4 @@ L'exécution des notebooks est conditionnée par le téléchargement des jeux de
 Sont nécessaires au lancement des notebooks :
 - Un logiciel pour l'édition (ex. : Google Colab, Jupyter Notebook)
 - Les données brutes 
-- La modification des adresses d'importation des fichiers brutes
+- La modification des adresses d'importation des données brutes
