@@ -4,7 +4,7 @@
 - ## 4 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
 - ## 5 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p5/projet-5.ipynb)
 - ## 6 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p6/projet-6.ipynb)
-- ## 7 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p6/projet-7.ipynb)
+- ## 7 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p7/projet-7.ipynb)
 
 
 
