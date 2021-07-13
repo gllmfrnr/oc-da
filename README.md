@@ -1,5 +1,7 @@
 # Parcours Data Analyst
 
+Notebooks consultables avec `nbviewer` :
+
 - ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/etude-sante/p3.ipynb)
 - ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
 - ## 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p5/projet-5.ipynb)
@@ -7,8 +9,6 @@
 - ## 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/prediction-revenus/projet-7.ipynb)
 - ## ⚡ [Prédiction en électricité](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p9/projet-9.ipynb)
 
-
-https://
 ___
 
 **Pré-requis** au lancement des notebooks :
