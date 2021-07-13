@@ -1,6 +1,6 @@
 # Parcours Data Analyst
 
-- ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p3/p3.ipynb)
+- ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/etude-sante/p3.ipynb)
 - ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
 - ## 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p5/projet-5.ipynb)
 - ## 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p6/projet-6.ipynb)
