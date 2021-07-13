@@ -11,7 +11,8 @@
  
 
 ___
-Sont nécessaires à l'exécution des notebooks :
+
+**Pré-requis** au lancement des notebooks :
 
 - un logiciel pour l'édition (ex. : Google Colab, Jupyter Notebook)
 - les données brutes disponibles dans chaque dossier de projet
