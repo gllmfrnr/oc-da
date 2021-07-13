@@ -1,6 +1,6 @@
 # Parcours Data Analyst
 
-Notebooks consultables via `nbviewer.org` :
+Le dossier de chaque projet contient ses sources et son notebook, consultable via `nbviewer.org` :
 
 - ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/etude-sante/p3.ipynb)
 - ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
