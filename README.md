@@ -1,11 +1,11 @@
 # Parcours Data Analyst
 
-- ## 3 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p3/p3.ipynb)
-- ## 4 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
-- ## 5 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p5/projet-5.ipynb)
-- ## 6 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p6/projet-6.ipynb)
-- ## 7 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p7/projet-7.ipynb)
-- ## 9 ⚡ [Prédiction en électricité](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p9/projet-9.ipynb)
+- ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p3/p3.ipynb)
+- ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
+- ## 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p5/projet-5.ipynb)
+- ## 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p6/projet-6.ipynb)
+- ## 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p7/projet-7.ipynb)
+- ## ⚡ [Prédiction en électricité](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p9/projet-9.ipynb)
 
 
  
