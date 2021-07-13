@@ -10,8 +10,7 @@
 
  
 
-
-# Pré-requis
+___
 Sont nécessaires à l'exécution des notebooks :
 
 - un logiciel pour l'édition (ex. : Google Colab, Jupyter Notebook)
