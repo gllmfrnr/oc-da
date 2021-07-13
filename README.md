@@ -12,9 +12,8 @@
 
 
 # Pré-requis
-L'exécution des notebooks est conditionnée par le téléchargement des jeux de données disponibles dans chaque dossier.
+Sont nécessaires à l'exécution des notebooks :
 
-Sont nécessaires au lancement des notebooks :
-- Un logiciel pour l'édition (ex. : Google Colab, Jupyter Notebook)
-- Les données brutes 
-- La modification des adresses d'importation des données brutes
+- un logiciel pour l'édition (ex. : Google Colab, Jupyter Notebook)
+- les données brutes disponibles dans chaque dossier de projet
+- la modification des adresses d'importation des données brutes
