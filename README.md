@@ -1,4 +1,4 @@
-# Introduction à l'analyse de données
+# Initiation à l'analyse de données
 
 Le dossier de chaque projet contient ses sources et son notebook, consultable via `nbviewer.org` :
 
