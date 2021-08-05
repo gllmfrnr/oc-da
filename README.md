@@ -3,10 +3,10 @@
 Chaque projet dispose d'un notebook Python consultable via `nbviewer.org` :
 
 - ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/etude-sante/p3.ipynb)
-- ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p4/projet-4.ipynb)
-- ## 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/oc/blob/master/p5/projet-5.ipynb)
-- ## 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/p6/projet-6.ipynb)
-- ## 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/prediction-revenus/projet-7.ipynb)
+- ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/analyse-ventes/p4.ipynb)
+- ## 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/etude-marche/p5.ipynb)
+- ## 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/detection-faux-billets/p6.ipynb)
+- ## 🔮 [Prédiction de revenus](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/prediction-revenus/p7.ipynb)
 
 ___
 
