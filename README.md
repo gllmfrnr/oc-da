@@ -6,7 +6,7 @@
 - ## 💵 [Détection de faux billets](https://github.com/gllmfrnr/openclassrooms/blob/master/detection-faux-billets/detection-faux-billets.ipynb)
 - ## 🔮 [Prédiction de revenus](https://github.com/gllmfrnr/openclassrooms/blob/master/prediction-revenus/prediction-revenus.ipynb)
 
-Chaque dossier contiennent les sources, le notebook Python et la présentation PDF du projet.
+Chaque dossier contient les sources, le notebook Python et la présentation PDF du projet.
 
 ---
 
