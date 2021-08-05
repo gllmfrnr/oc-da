@@ -2,7 +2,7 @@
 
 Chaque projet dispose d'un notebook Python consultable via `nbviewer.org` :
 
-- ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/raw.githubusercontent.com/gllmfrnr/openclassrooms/master/etude-sante/etude-sante.ipynb)
+- ## 🌾 [Étude de santé](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/master/etude-sante/etude-sante.ipynb)
 - ## 📚 [Analyse des ventes](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/analyse-ventes/analyse-ventes.ipynb)
 - ## 🐔 [Étude de marché](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/etude-marche/etude-marche.ipynb)
 - ## 💵 [Détection de faux billets](https://nbviewer.jupyter.org/github/gllmfrnr/openclassrooms/blob/master/detection-faux-billets/detection-faux-billets.ipynb)
