@@ -1,6 +1,6 @@
 # Introduction à l'analyse de données
 
-Chaque projet dispose d'un notebook Python consultable via `nbviewer.org` :
+Chaque dossier contient les sources, le notebook Python et la présentation PDF de chaque projet du parcours Data Analyst :
 
 - ## 🌾 [Étude de santé](https://github.com/gllmfrnr/openclassrooms/blob/master/etude-sante/etude-sante.ipynb)
 - ## 📚 [Analyse des ventes](https://github.com/gllmfrnr/openclassrooms/blob/master/analyse-ventes/analyse-ventes.ipynb)
@@ -8,7 +8,7 @@ Chaque projet dispose d'un notebook Python consultable via `nbviewer.org` :
 - ## 💵 [Détection de faux billets](https://github.com/gllmfrnr/openclassrooms/blob/master/detection-faux-billets/detection-faux-billets.ipynb)
 - ## 🔮 [Prédiction de revenus](https://github.com/gllmfrnr/openclassrooms/blob/master/prediction-revenus/prediction-revenus.ipynb)
 
-___analyse-ventes/analyse-ventes.ipynb
+
 
 **Pré-requis** au lancement des notebooks :
 
